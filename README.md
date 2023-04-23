@@ -129,9 +129,11 @@ Slope = 0
 Deadzone = 0
 
 and vStancer, https://www.gta5-mods.com/scripts/vstancer
+
 recommended for MAXIMUM experience in SP
 
 RECOMMENDED FiveM MUST HAVE ADDON MODS:
+
 Inverse Power, https://www.gta5-mods.com/scripts/inversepower
 
 Forced induction systems compatibility build (https://github.com/itsHazeyo/renzu_turbo)
