@@ -1,4 +1,4 @@
-# Midnight-Club-Unlimited-Handling-Overhaiul
+# Midnight-Club-Unlimited-Handling-Overhaul
 the Definitive GTA handling mod
 
 Convertible Summers aka itsHazeyo
