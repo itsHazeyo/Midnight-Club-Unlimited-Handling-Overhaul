@@ -11,6 +11,8 @@ Midnight Club Unlimited
 
 the Complete Vehicle Overhaul Mod
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HFjbKwwtsAw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 *Features*
 
 IMPROVED TOP SPEED AND/OR ACCELERATION ON ALL LAND AND SOME SEA BASED VEHICLES!
@@ -21,7 +23,7 @@ FIVEM COMPATIBLE!
 
 THREE DISTINCT LEVELS OF CONTROL!
 
-
+Unlimited X(Patreon Exclusive, FiveM Only):Prolific handling model, steering angles are the same as the Unlimited edition but now with the added effect of tire slip. Allowing for a more true to life driving experience. Also includes custom variants created by me and recommend by the Discord members.
 
 Unlimited Pro: Primarily for those who enjoy more of "simish" experience, and first person driving
 it has the most reduction in steering angle which WILL require a high level of driving skill.
