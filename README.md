@@ -4,14 +4,14 @@ the Definitive GTA handling mod
 Convertible Summers aka itsHazeyo
 
 Proudly Presents,
-
+![midnight club template](https://user-images.githubusercontent.com/72316312/236901279-5bf60436-e0df-4df8-88f4-7d0018d5d709.png)
 GRAND THEFT AUTO 5:
 
 Midnight Club Unlimited
 
 the Complete Vehicle Overhaul Mod
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HFjbKwwtsAw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+[![Watch the video](https://i.ytimg.com/an_webp/HFjbKwwtsAw/mqdefault_6s.webp?du=3000&sqp=CKjc5KIG&rs=AOn4CLABSe7IXaNwkjqmDXdd0-XevLE8cA)](https://www.youtube.com/watch?v=HFjbKwwtsAw)
 
 *Features*
 
@@ -31,7 +31,6 @@ it has the most reduction in steering angle which WILL require a high level of d
 Unlimited: For a more casual driver, steering angles are closer to default EXCEPT cycles, quads.
 
 Unlimited Drift: Full Send maximum steering anglE, and all vehicles set to FR......EXCEPT cycles, quads of course.
-
 
 
 LIST OF CHANGES:
