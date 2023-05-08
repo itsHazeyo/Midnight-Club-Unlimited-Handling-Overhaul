@@ -21,7 +21,7 @@ ARCADEY/SIM RACE FEELING!
 
 FIVEM COMPATIBLE!
 
-THREE DISTINCT LEVELS OF CONTROL!
+FOUR DISTINCT LEVELS OF CONTROL!
 
 Unlimited X(Patreon Exclusive, FiveM Only):Prolific handling model, steering angles are the same as the Unlimited edition but now with the added effect of tire slip. Allowing for a more true to life driving experience. Also includes custom variants created by me and recommend by the Discord members.
 
