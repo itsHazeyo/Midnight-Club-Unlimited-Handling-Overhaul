@@ -211,6 +211,7 @@ Optional A.I.: install to "Mods\common.rpf\data\ai" and replace "vehicleaihandli
 
 Single player uninstaller available in the vanilla patcher section of my discord:
 https://discord.com/invite/u7tgHb9yvE
+(Discord link subject to change without notice)
 
 
 FiveM Server:
