@@ -235,11 +235,14 @@ and merge them with the one provided along with your carcol/variation.metas, Als
 
 SPECIAL NOTE:
 
-From now on I will be pre-releasing the mod on my patreon about one month in advance before I upload it to gta5-mods.com
+From now on I will be pre-releasing the mod on my patreon about one month in advance before I update it on here to gta5-mods.com
 https://www.patreon.com/midnightclubunlimited
 
 Also if you could subscribe, I already know I got your like 😋
 https://www.youtube.com/@midnightclubunlimited
+
+and follow me on instagram
+https://www.instagram.com/midnightclubunlimited/
 
 
 **Special Thanks to**
@@ -341,3 +344,5 @@ and players like you.
 1.9.8.8 Update, Furore GT upper suspension limit adjusted, Sugoi revisited, Hotring adjusted, Comet SR advanced flags change to handle added down-force, V-STR was upgraded to a Blackwing, "EnHanCeD & eXpAnDed" vehicles added but do not work. Sleepers where Created. Criminal Enterprises tuned and added.
 
 1.9.9 Update, SM722 was lowered slightly, Tyrant is now 100% more Regera, Drug Wars cars added, Missing meta data adeed to FiveM metas.
+
+1.9.9.1 Update, Tyrant overspeed fixed, Project will now be hosted on GitHub
