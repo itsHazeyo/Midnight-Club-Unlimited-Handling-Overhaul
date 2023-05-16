@@ -347,4 +347,4 @@ and players like you.
 
 1.9.9 Update, SM722 was lowered slightly, Tyrant is now 100% more Regera, Drug Wars cars added, Missing meta data adeed to FiveM metas.
 
-1.9.9.1 Update, Tyrant overspeed fixed, Project will now be hosted on GitHub
+1.9.9.1 Update, Tyrant overspeed fixed, Buffalo STX brake light fixed(FiveM Only), Project is now hosted on GitHub
