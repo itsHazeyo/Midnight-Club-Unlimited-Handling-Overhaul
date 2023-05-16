@@ -5,7 +5,7 @@ name 'GTA:Unlimted Handling mod'
 author 'itsHazeyo aka Convertible Summers'
 description 'the Midnight Club of Los Santos'
 version 'v1.9.9.1 Drug Wars FiveM Standard'
-url 'https://www.gta5-mods.com/vehicles/gta5-unlimited'
+url 'https://github.com/itsHazeyo/Midnight-Club-Unlimited-Handling-Overhaul'
 
 files {
     'handling.meta',
