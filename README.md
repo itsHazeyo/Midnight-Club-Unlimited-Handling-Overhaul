@@ -9,79 +9,125 @@ GRAND THEFT AUTO 5:
 
 Midnight Club Unlimited
 
-the Complete Vehicle Overhaul Mod
+the Complete Vehicle Overhaul Mod V2
 
-[![Watch the video](https://i.ytimg.com/an_webp/HFjbKwwtsAw/mqdefault_6s.webp?du=3000&sqp=CKjc5KIG&rs=AOn4CLABSe7IXaNwkjqmDXdd0-XevLE8cA)](https://www.youtube.com/watch?v=HFjbKwwtsAw)
+[![Watch the video](https://i.ytimg.com/an_webp/HFjbKwwtsAw/mqdefault_6s.webp?du=3000&sqp=CKjc5KIG&rs=AOn4CLABSe7IXaNwkjqmDXdd0-XevLE8cA)](https://www.youtube.com/watch?v=EUsBJwYod58)
 
 *Features*
 
-IMPROVED TOP SPEED AND/OR ACCELERATION ON ALL LAND AND SOME SEA BASED VEHICLES!
+#ARCADEY/SIM RACE FEELING!
 
-ARCADEY/SIM RACE FEELING!
+#FIVEM COMPATIBLE!
 
-FIVEM COMPATIBLE!
+#THREE DISTINCT LEVELS OF CONTROL!
 
-FOUR DISTINCT LEVELS OF CONTROL!
+Unlimited Pro X(Paetron/FiveM Exclusive): In addition to the changes below, I've made a more pronounced tire slip model also included are various lore friendly add-on vehicle handling profiles!
 
-Unlimited X(Patreon Exclusive, FiveM Only):Prolific handling model, steering angles are the same as the Unlimited edition but now with the added effect of tire slip. Allowing for a more true to life driving experience. Also includes custom variants created by me and recommend by the Discord members.
+Unlimited Casual: Disabled low speed traction loss
 
-Unlimited Pro: Primarily for those who enjoy more of "simish" experience, and first person driving
-it has the most reduction in steering angle which WILL require a high level of driving skill.
+Unlimited Filthy Casual: Closer to GTA low speed traction loss
 
-Unlimited: For a more casual driver, steering angles are closer to default EXCEPT cycles, quads.
+#LIST OF CHANGES:
+-More accurate top speed formula implimented.
 
-Unlimited Drift: Full Send maximum steering anglE, and all vehicles set to FR......EXCEPT cycles, quads of course.
+-Got rid of the "sleeperfide" values in favor of a custom LS Custom script(in Development)
 
+-Center of Mass has been adjusted to better reflect where the weight of a vehicle is.
 
-LIST OF CHANGES:
+-Drive bias changes along with the addition Drive Bias transfer to eligible vehicles.
 
-#-FIRST AND FOREMOST, THIS IS NOT MEANT TO BE REALISTIC.... THE RAGE ENGINE DOES HAVE ITS QUIRKS AND FEATURES.
+-Standardrized shift times between vehicle classes, type, year, and transmission.
 
--Mass, Top speed, Number of Gears, Drive Bias, Drag coefficient, Down-force, Acceleration, and E-Brake lockup
-have been tuned on ALL Cars, Trucks, SUVs, Bikes, Trikes, Quads, Cycles, Boats and Oats
-to better reflect the performance values of what they have been based off,
-Some vehicles will be faster others will be slower but they are all better than the Base game ˋ( ° ▽、° )
+-Brake force adjustments depending on vehicle type.(Certain older vehicles will not have ABS untill you upgrage them)
+
+-Brake Bias adjustments depending on vehicles center of mass and maxed out handbrake lock up force on every vehicle.
+
+-Standardrized Steering lock across vehicle classes according to the table provided below (Turning radius is controled by wheel base using this method).
+
+-Traction bias balancing to take advange of the new center of mass changes and fTractionLossMult set to 1.0 in favor of Off-Road tires via custom LS Custom script.
+
+-Suspension changes on vehicles that exhibited "bump power".
+
+-Adjusted swaybar "RollCenter" to maximaze center of mass changes.
+
+-Model, Handling, and Damage Flags have been changed on various vehicles in order to better reflect their capability.
+
+-CCarHandlingData added to every vehicle along with strAdvancedFlags changes.
+
+-Castor added to every vehicle.
+
+-Easter eggs
+
 (ALL information sourced from GTA FANDOM, WIKIPEDIA, IMAGINATION and MFG SITES)
 (NOT RECOMMEND FOR MOUSE AND KEYBOARD, WHEELSPIN WILL OCCUR... YOU'VE BEEN WARNED!!)
 
--Vehicles that have "visual" engine upgrades have been "sleeperfide" (I.E. Blowers, Top mount Turbos, Wheelie bars, etc..)
--Various adjustments to steering angles and lean forces on every motorcycle
-
--Reduced steering lock angle to increase overall drive-ability due to increased power
-
-(this doesn't apply to the Drift Pack OR Drift Type Vehicles)
-
--Vehicle suspension compression, and standard brake force HAVE NOT been changed as I didn't see the need to
-
--Certain vehicles ride heights have been adjusted simply for aesthetic factor, Other suspension settings remain unchanged
-
--Most duplicate vehicles now have separate handling values to better reflect their differences
-
+-Duplicate vehicles now have separate handling values to better reflect their differences
 (I.E. Blista Compact and Go Go Monkey Blista are two very different cars now ( ͡• ͜ʖ ͡• ))
 
 -Revamped AI to better handle vehicles (optional)
 
+CARS 
+fSteeringLock value="30.0"
+
+DRIFT CARS
+fSteeringLock value="65.00000"  #OG
+fSteeringLock value="80.00000"	#CHOPSHOP
+
+SUVS/OFFROAD/LIMOS/RALLY CARS
+fSteeringLock value="35.000"
+
+OPENWHEEL/FORMULA
+fSteeringLock value="25.0"
+
+TRUCKS/MONSTER TRUCKS
+fSteeringLock value="40.0000"
+
+FORKLIFTS
+fSteeringLock value="70.000000"
+fSteeringLock value="75.000000"
+
+CERBERUS
+fSteeringLock value="45.0000000"
+
+SCARAB
+fSteeringLock value="50.000000"
+
+RAPTOR
+fSteeringLock value="18.00"
+
+MOTORCYCLES/QUADS/RCCARS
+fSteeringLock value="XX.00"
+
 
 KNOWN BUGS:
+#-FIRST AND FOREMOST, THIS IS NOT MEANT TOO BE REALISTIC.... THE RAGE ENGINE DOES HAVE ITS QUIRKS AND FEATURES.
 
--7th and 8th Gears have been removed due to the Rage engine not able to actually realize that you should be going faster in these gears
+-Who knew the vehicle camera was tied to the center of mass position, third person driving will look slightly different now.
 
--also Rage engine thinks transmission tuning means adding an extra gear to it rather than shorting shift times
+-7th and 8th Gears have been removed due to the Rage engine not able to actually realize that you should be going faster in these gears.
 
--This means Cars that would have 7/8 speed transmissions normally are now limited to 6
+-also Rage engine thinks transmission tuning means adding an extra gear to it rather than shorting shift times.
 
--Which also also means you shouldn't purchase transmission upgrades as they'll most likely nerf your top-speed
+-This means Cars that would have 7/8 speed transmissions normally are now limited to 6.
 
--Top speeds may not be 100% spot on to their real life counter parts
+-Which also also means you shouldn't purchase transmission upgrades as they'll most likely nerf your top-speed(if not using custom LS Custom)
+-Top speeds may not be 100% spot on to their real life counter parts.
 
--Cars that "pop-up" wheelie unrealistically, I'm still working on the right numbers
+-Cars that "pop-up" wheelie unrealistically, I'm still working on the right numbers(Try a standing start in 2nd).
 
--You may come to a sudden stop at high speeds if you have "auto repair" enabled in any trainer
+-You may come to a sudden stop at high speeds if you have "auto repair" enabled in any trainer.
 
--Grotti x80 Proto has no downforce, idk why it just won't work
+-Grotti x80 Proto has no downforce, idk why it just won't work.
 
--Some cars won't show full turning radius, its baked into the model
+-Overflod Zeno leans like a bike?! why?
 
+-Ocelot Virtue suspension is backwards!? again, Why?
+
+-Don't use the Strongberd or Toreador underwater until I make a fix, got it.
+
+-Some cars won't show full turning radius, its baked into the model.
+
+#-Single Player is not it, The previous method of merging handing metas doesn't seem to work anymore (Hence why no manual installer) and applying the new changes to certain DLCs resulted in a CTD so many of your favorite vehicles are left out of this update. To get the full driving experience come join us on Midnight Club Unlimited FiveM server or have it installed your favorite Playgrounf.
 
 RECOMMENDED MUST HAVE ADDON MODS:
 -Manual Transmission, https://www.gta5-mods.com/scripts/manual-transmission-ikt
@@ -144,16 +190,13 @@ Renzu Nitro https://github.com/renzuzu/renzu_nitro
 xgc/tuner, Custom compatibility build (https://github.com/itsHazeyo/xgc-tunerchip)
 
 
-
 -issa Pista and that's a GEMREA consumer methanol cars aren't real not even in Los Santos
 
 -Start slow and work yourself up to the Super/Hyper Cars
 
--You will need an external “tuning” resource to unlock sleepers true top speeds
-
 -Motorcycles are DEADLY
 
--Exclusively uploaded to GTA5-mods-.com be cautious of all others
+-Exclusively uploaded to github.com then gta5-mods.com be cautious of all others!
 
 INSTALLATION:
 
@@ -167,57 +210,15 @@ Single player OIV:
 
 2. Install the OIV
 
-3.????
+3. ????
 
-4.Enjoy!
+4. Enjoy!
 
-
-
-Single Player Manual clean Install:
-
-0. Pick a version, You'll be able to change the handling.metas after initial setup
-
-1. Launch OpenIV and navigate to
-"Mods\update\update.rpf\common\data"
-replace the Handling.meta with the one included in the "Part 1" folder
-
-2. then go to
-"Mods\update\update.rpf\common\data\levels\gta5"
-replace the vehicles.meta in there with the one from the "Part 1" folder
-
-2.3. then copy the vehicles.meta from the "Part 1.3" folder to
-"Mods\update\update.rpf\dlc_patch\mpchistmas2018\common\data\levels\gta5"
-and replace the vehicles.meta in there
-
-2.4. then copy the vehicles.meta from the "Part 1.4" folder to
-"\Mods\update\x64\dlcpacks\mpchristmas3\dlc.rpf\common\data\levels\gta5"
-and replace the vehicles.meta in there
-
-2.6. after that copy the vehicles.meta from the "Part 1.6" folder to
-"Mods\update\update.rpf\dlc_patch\spupgrade\common\data\levels\gta5"
-and replace the vehicles.meta in there as well
-
-3. Now Grab the Handling.meta from the "Part 2" folder and copy that to
-"Mods\x64w.rpf\dlcpacks\spupgrade\dlc.rpf\common\data"
-replace the one that was in there
-
-4. And Finally take the Vehicles.mete from the "Part 2" folder copy it over to
-"Mods\x64w.rpf\dlcpacks\spupgrade\dlc.rpf\common\data\levels\gta5"
-to replace the one located in there
-
-5.Enjoy!
 
 Optional A.I.: install to "Mods\common.rpf\data\ai" and replace "vehicleaihandlinginfo.meta"
 
 
-Single player uninstaller available in the vanilla patcher section of my discord:
-https://discord.com/invite/u7tgHb9yvE
-(Discord link subject to change without notice)
-
-
 FiveM Server:
-
-If you have any of the DLC vehicle addon packs remove 'vehicles.meta' and 'handling.meta' lines from their respective _resource.lua/fxmanifest.lua, Also set this higher than the DLCs in your load order
 
 0. Pick a version
 
@@ -225,19 +226,14 @@ If you have any of the DLC vehicle addon packs remove 'vehicles.meta' and 'handl
 
 2. add "start YOURCHOICE" to your server config
 
-3. Enjoy!
+3. ?????
 
-Optional/bug fix: If LS Customs doesn't work you'll need the carcol.meta/carvariation.metas 
-copy all the files out of the "Full package" folder and put them in your unlimited resources
-
-If you have any of the DLC vehicle addon packs remove 'vehicles.meta' and 'handling.meta' lines from their respective fxmanifest.lua 
-and merge them with the one provided along with your carcol/variation.metas, Also set this higher than the DLCs in your load order
-
+4. Enjoy!
 
 
 SPECIAL NOTE:
 
-From now on I will be pre-releasing the mod on my patreon about one month in advance before I update it on here to gta5-mods.com
+From now on I will be pre-releasing the mod on my Patreon/GitHub about one month in advance before I update it on gta5-mods.com
 https://www.patreon.com/midnightclubunlimited
 
 Also if you could subscribe, I already know I got your like 😋
@@ -248,6 +244,8 @@ https://www.instagram.com/midnightclubunlimited/
 
 
 **Special Thanks to**
+Rockstar, 
+Take-Two,
 the OpenIV team,  
 GTA5-mods.com,  
 FiveM team,
@@ -348,3 +346,7 @@ and players like you.
 1.9.9 Update, SM722 was lowered slightly, Tyrant is now 100% more Regera, Drug Wars cars added, Missing meta data adeed to FiveM metas.
 
 1.9.9.1 Update, Tyrant overspeed fixed, Buffalo STX brake light fixed(FiveM Only), Project is now hosted on GitHub
+
+1.9.9.2 Update, San Andreas Mercenaries vehicles added and tuned appropriately, various handling flag changes, minor adjustment to Everon
+
+2.0 Upgraded, Latest DLCs added, overhauled the overhaul, Fixed Bufflo lighting bug again (FiveM Only), minus the motorcycles and quads for now.
