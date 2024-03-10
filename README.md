@@ -28,7 +28,7 @@ Unlimited Casual: Disabled low speed traction loss
 Unlimited Filthy Casual: Closer to GTA low speed traction loss
 
 ***#LIST OF CHANGES:***
--More accurate top speed formula implimented.
+-More accurate top speed formula implemented.
 
 -Got rid of the "sleeperfide" values in favor of a custom LS Custom script(in Development)
 
