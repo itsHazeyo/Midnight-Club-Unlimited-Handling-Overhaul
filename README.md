@@ -66,6 +66,8 @@ Unlimited Filthy Casual: Closer to GTA low speed traction loss
 
 -Revamped AI to better handle vehicles (optional)
 
+
+
 CARS 
 fSteeringLock value="30.0"
 
@@ -99,7 +101,10 @@ MOTORCYCLES/QUADS/RCCARS
 fSteeringLock value="XX.00"
 
 
+
+
 KNOWN BUGS:
+
 **-FIRST AND FOREMOST, THIS IS NOT MEANT TOO BE REALISTIC.... THE RAGE ENGINE DOES HAVE ITS QUIRKS AND FEATURES.**
 
 -Who knew the vehicle camera was tied to the center of mass position, third person driving will look slightly different now.
