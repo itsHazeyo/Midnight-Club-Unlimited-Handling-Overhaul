@@ -11,15 +11,15 @@ Midnight Club Unlimited
 
 the Complete Vehicle Overhaul Mod V2
 
-[![Watch the video](https://i.ytimg.com/an_webp/HFjbKwwtsAw/mqdefault_6s.webp?du=3000&sqp=CKjc5KIG&rs=AOn4CLABSe7IXaNwkjqmDXdd0-XevLE8cA)](https://www.youtube.com/watch?v=EUsBJwYod58)
+[![Watch the video](https://i.ytimg.com/vi/EUsBJwYod58/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIGUoZTAP&rs=AOn4CLBTYhQMqrVCICskE5AZ0yP9h6r6Sw)](https://www.youtube.com/watch?v=EUsBJwYod58)
 
 *Features*
 
-#ARCADEY/SIM RACE FEELING!
+***ARCADEY/SIM RACE FEELING!***
 
-#FIVEM COMPATIBLE!
+***FIVEM COMPATIBLE!***
 
-#THREE DISTINCT LEVELS OF CONTROL!
+***THREE DISTINCT LEVELS OF CONTROL!***
 
 Unlimited Pro X(Paetron/FiveM Exclusive): In addition to the changes below, I've made a more pronounced tire slip model also included are various lore friendly add-on vehicle handling profiles!
 
@@ -27,7 +27,7 @@ Unlimited Casual: Disabled low speed traction loss
 
 Unlimited Filthy Casual: Closer to GTA low speed traction loss
 
-#LIST OF CHANGES:
+***#LIST OF CHANGES:***
 -More accurate top speed formula implimented.
 
 -Got rid of the "sleeperfide" values in favor of a custom LS Custom script(in Development)
@@ -100,7 +100,7 @@ fSteeringLock value="XX.00"
 
 
 KNOWN BUGS:
-#-FIRST AND FOREMOST, THIS IS NOT MEANT TOO BE REALISTIC.... THE RAGE ENGINE DOES HAVE ITS QUIRKS AND FEATURES.
+**-FIRST AND FOREMOST, THIS IS NOT MEANT TOO BE REALISTIC.... THE RAGE ENGINE DOES HAVE ITS QUIRKS AND FEATURES.**
 
 -Who knew the vehicle camera was tied to the center of mass position, third person driving will look slightly different now.
 
@@ -127,7 +127,7 @@ KNOWN BUGS:
 
 -Some cars won't show full turning radius, its baked into the model.
 
-#-Single Player is not it, The previous method of merging handing metas doesn't seem to work anymore (Hence why no manual installer) and applying the new changes to certain DLCs resulted in a CTD so many of your favorite vehicles are left out of this update. To get the full driving experience come join us on Midnight Club Unlimited FiveM server or have it installed your favorite Playgrounf.
+***-Single Player is not it, The previous method of merging handing metas doesn't seem to work anymore (Hence why no manual installer) and applying the new changes to certain DLCs resulted in a CTD so many of your favorite vehicles are left out of this update. To get the full driving experience come join us on Midnight Club Unlimited FiveM server or have it installed your favorite Playground.***
 
 RECOMMENDED MUST HAVE ADDON MODS:
 -Manual Transmission, https://www.gta5-mods.com/scripts/manual-transmission-ikt
