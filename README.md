@@ -21,7 +21,7 @@ the Complete Vehicle Overhaul Mod V2
 
 ***THREE DISTINCT LEVELS OF CONTROL!***
 
-Unlimited Pro X(Paetron/FiveM Exclusive): In addition to the changes below, I've made a more pronounced tire slip model also included are various lore friendly add-on vehicle handling profiles!
+Unlimited Pro X(Patreon/FiveM Exclusive): In addition to the changes below, I've made a more pronounced tire slip model also included are various lore friendly add-on vehicle handling profiles!
 
 Unlimited Casual: Disabled low speed traction loss
 
@@ -36,15 +36,15 @@ Unlimited Filthy Casual: Closer to GTA low speed traction loss
 
 -Drive bias changes along with the addition Drive Bias transfer to eligible vehicles.
 
--Standardrized shift times between vehicle classes, type, year, and transmission.
+-Standardized  shift times between vehicle classes, type, year, and transmission.
 
 -Brake force adjustments depending on vehicle type.(Certain older vehicles will not have ABS untill you upgrage them)
 
 -Brake Bias adjustments depending on vehicles center of mass and maxed out handbrake lock up force on every vehicle.
 
--Standardrized Steering lock across vehicle classes according to the table provided below (Turning radius is controled by wheel base using this method).
+-Standardized  Steering lock across vehicle classes according to the table provided below (Turning radius is controled by wheel base using this method).
 
--Traction bias balancing to take advange of the new center of mass changes and fTractionLossMult set to 1.0 in favor of Off-Road tires via custom LS Custom script.
+-Traction bias balancing to take advantage  of the new center of mass changes and fTractionLossMult set to 1.0 in favor of Off-Road tires via custom LS Custom script.
 
 -Suspension changes on vehicles that exhibited "bump power".
 
@@ -124,10 +124,6 @@ KNOWN BUGS:
 
 -Grotti x80 Proto has no downforce, idk why it just won't work.
 
--Overflod Zeno leans like a bike?! why?
-
--Ocelot Virtue suspension is backwards!? again, Why?
-
 -Don't use the Strongberd or Toreador underwater until I make a fix, got it.
 
 -Some cars won't show full turning radius, its baked into the model.
@@ -139,8 +135,6 @@ RECOMMENDED MUST HAVE ADDON MODS:
 With LSD enabled
 
 Inverse Power, https://www.gta5-mods.com/scripts/inversepower
-
-
 
 
 My "Recommended" Settings:
@@ -241,7 +235,7 @@ SPECIAL NOTE:
 From now on I will be pre-releasing the mod on my Patreon/GitHub about one month in advance before I update it on gta5-mods.com
 https://www.patreon.com/midnightclubunlimited
 
-Also if you could subscribe, I already know I got your like 😋
+Also if you could subscribe
 https://www.youtube.com/@midnightclubunlimited
 
 and follow me on instagram
@@ -354,4 +348,6 @@ and players like you.
 
 1.9.9.2 Update, San Andreas Mercenaries vehicles added and tuned appropriately, various handling flag changes, minor adjustment to Everon
 
-2.0 Upgraded, Latest DLCs added, overhauled the overhaul, Fixed Bufflo lighting bug again (FiveM Only), minus the motorcycles and quads for now.
+2.0 Upgraded, Latest DLCs added, overhauled the overhaul, Fixed Buffalo lighting bug again (FiveM Only), minus the motorcycles and quads for now.
+
+2.0.1 Update, Latest DLC added, Drift variants now have drift tyres by default, Zeno and Virtue bugs have been fixed, revised Rebla traction bias, Buffalo STX traction loss fixed, added more drag to the Airtug, cleaned up some discrepancies, still haven't touched the motorcycles and quads for now(again).
