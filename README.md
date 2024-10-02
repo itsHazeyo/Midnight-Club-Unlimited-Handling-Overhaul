@@ -133,6 +133,7 @@ KNOWN BUGS:
 RECOMMENDED MUST HAVE ADDON MODS:
 -Manual Transmission, https://www.gta5-mods.com/scripts/manual-transmission-ikt
 With LSD enabled
+or Simple Manual if using build 3095, (https://github.com/itsHazeyo/simplemanual)
 
 Inverse Power, https://www.gta5-mods.com/scripts/inversepower
 
@@ -251,7 +252,6 @@ FiveM team,
 Alexander Blade,
 ikt for vStancer and Manual Transmission,
 sjaak327 for Simple Trainer,
-Josh Answers,
 Friends willing to test,
 and players like you.
 
@@ -351,3 +351,5 @@ and players like you.
 2.0 Upgraded, Latest DLCs added, overhauled the overhaul, Fixed Buffalo lighting bug again (FiveM Only), minus the motorcycles and quads for now.
 
 2.0.1 Update, Latest DLC added, Drift variants now have drift tyres by default, Zeno and Virtue bugs have been fixed, revised Rebla traction bias, Buffalo STX traction loss fixed, added more drag to the Airtug, cleaned up some discrepancies, still haven't touched the motorcycles and quads for now(again).
+
+2.0.2 Hotfix, z axis on the OG buffalo, Buffalo S, and Police3 where just a bit to high. Minor suspention adjustments to Comet5, Comet6, Comet7 to mitigate front-end floatiness, Coquette D1 will do wheelies now.
