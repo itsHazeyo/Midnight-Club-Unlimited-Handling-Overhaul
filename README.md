@@ -36,7 +36,7 @@ Unlimited Filthy Casual: Closer to GTA low speed traction loss
 
 -Drive bias changes along with the addition Drive Bias transfer to eligible vehicles.
 
--Standardized  shift times between vehicle classes, type, year, and transmission.
+-Standardized shift times between vehicle classes, type, year, and transmission.
 
 -Brake force adjustments depending on vehicle type.(Certain older vehicles will not have ABS untill you upgrage them)
 
@@ -348,8 +348,12 @@ and players like you.
 
 1.9.9.2 Update, San Andreas Mercenaries vehicles added and tuned appropriately, various handling flag changes, minor adjustment to Everon
 
-2.0 Upgraded, Latest DLCs added, overhauled the overhaul, Fixed Buffalo lighting bug again (FiveM Only), minus the motorcycles and quads for now.
+2.0 Upgraded, Latest DLCs added, Sleepers removed, overhauled the overhaul, Fixed Buffalo lighting bug again (FiveM Only), minus the motorcycles and quads for now.
 
 2.0.1 Update, Latest DLC added, Drift variants now have drift tyres by default, Zeno and Virtue bugs have been fixed, revised Rebla traction bias, Buffalo STX traction loss fixed, added more drag to the Airtug, cleaned up some discrepancies, still haven't touched the motorcycles and quads for now(again).
 
-2.0.2 Hotfix, z axis on the OG buffalo, Buffalo S, and Police3 where just a bit to high. Minor suspention adjustments to Comet5, Comet6, Comet7 to mitigate front-end floatiness, Coquette D1 will do wheelies now.
+2.0.2 Hotfix, z axis on the OG buffalo, Buffalo S, and Police3 where just a bit to high. Minor suspension adjustments to Comet5, Comet6, Comet7 to mitigate front-end floatiness, Coquette D1 will do wheelies now.
+
+2.0.3 Update, Agents of Sabatoge vehicles added, Z axis change on Cheburek to make it less roll over prone, Removed all HardRevLimit flag instances along with AssistTractionControl on AoS/Drift variants, TyresCanClip flag removed on certain vehicles to prevent crashing into odd road surface collision, Suspension fixes on Dominator GTX
+
+2.1.0 Update, Money Front Vehicles added, enabled the strHandlingFlag 001 aka freewheelCoast on every vehicle which will now allow coasting MUCH FURTHER before slowing down to a stop, added CCarHandlingData to every motocycle (if you know you), lowered z-axis on Dominator ASP, Removed Midnight variants from non Unlimited X versions
